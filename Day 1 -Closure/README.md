@@ -1,4 +1,4 @@
-<div><div class="_16yfq _2YoR3"><h2 id="solution">Solution</h2>
+<div><div class="_16yfq _2YoR3"><h2 id="solution">Closure</h2>
 <hr>
 <h3 id="overview">Overview</h3>
 <p>This question is intended as an introduction to JavaScript functions. This editorial will cover their syntax and topics like <em><strong>closures</strong></em> and <em><strong>higher-order functions</strong></em>.</p>
